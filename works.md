@@ -1,7 +1,7 @@
 ---
 title: Media
 layout: page
-hero_image: /img/Otavio MK 3.jpg
+hero_image: https://kavotaman.github.io/img/Otavio MK 3.jpg
 menubar: menu_media
 ---
 
