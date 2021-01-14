@@ -1,10 +1,10 @@
 - name: Bio
-  link: /br/about/bio.html
+  link: /about/bio.html
 - name: Media
-  link: /br/media.html
+  link: /media.html
 # - name: Showcase
 #   link: /showcase.html
 - name: Contato
-  link: /br/contact.html
+  link: /contact.html
 - name: Blog
-  link: /br/blog/
+  link: /blog/
