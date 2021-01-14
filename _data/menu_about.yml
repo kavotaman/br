@@ -1,0 +1,6 @@
+- label: Menu
+  items:
+    - name: Bio
+      link: /about/bio.html
+    - name: CV
+      link: /about/cv.html
