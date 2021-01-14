@@ -1,6 +1,7 @@
 - label: Menu
   items:
     - name: Bio
-      link: /about/bio.html
+      link: /br/about/bio.html
     - name: CV
-      link: /about/cv.html
+      link: /br/about/cv.html
+      

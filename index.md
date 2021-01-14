@@ -10,15 +10,15 @@ show_sidebar: true
 hide_footer: false
 ---
 # Otávio Manzano Kavakama
-Cellist, enjoys playing some crazy stuff. Favorite color is yellow. [Mesoclisis](https://en.wiktionary.org/wiki/mesoclisis) enthusiast.
+Violonceleiro, curte tocar umas doideras. Cor favorita é a amarela. Grande entusiasta da mesóclise.
 
-In this website you will hopefully find the answers for all your questions.
+Neste site, espero que encontre a resposta para todas as questões fundamentais da humanidade.
 
-If you are a composer, thank you for your work. If you are not a composer, consider becoming one and writing some crazy stuff. I love playing crazy stuff, especially if it's fresh (I like the smell of new music).
+Se você é uma pessoa compositora, obrigado por seu trabalho. Se você não é, considere se tornar e escrever umas doideras. Como disse, eu curto tocar umas doideras (e gosto particularmente do cheiro de música nova).
 
-Anyway, feel free to hang out, [watch some videos](/media.html), [read some stuff](/blog/), [look at my bio](/about/bio.html), [etc.](/contact.html), [etc](/about/cv.html). 
+Enfim, fique à vontade pra dar um relax, [ver uns vídeos](/br/media.html), [ler umas paradas](/br/blog/), [fuçar minha bio](/br/about/bio.html) [etc.](/br/contact.html) [etc](/br/about/cv.html). 
 
-Below you will encounter a cool image of my hometown of Atibaia, Brazil, and an image of my brother and I ready to record an awesome [music video](https://youtu.be/wCSFv_tt2NI). I hope you enjoy =)
+Abaixo vai uma imagem bacana da minha cidade natal (Atibaia), e uma foto de eu e meu irmão prontos pra gravar um [videoclip bacana](https://youtu.be/wCSFv_tt2NI). Espero que seu tempo aqui seja prazeroso =)
 
 ![Atibaia 1](https://kavotaman.github.io/img/Atibaia_1.jpg)
 
