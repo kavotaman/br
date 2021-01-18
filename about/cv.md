@@ -1,5 +1,5 @@
 ---
-title: CV
+title: Currículo
 layout: page
 hero_image: https://kavotaman.github.io/img/Otavio MK 14.jpg
 menubar: menu_about
@@ -7,29 +7,30 @@ menubar: menu_about
 
 <!-- vim-markdown-toc Redcarpet -->
 
-* [EDUCATION](#education)
-    * [Private Studies](#private-studies)
+* [EDUCAÇÃO](#educação)
+    * [Aulas Particulares](#aulas-particulares)
     * [Masterclasses](#masterclasses)
-    * [Summer Festivals](#summer-festivals)
-* [PERFORMING EXPERIENCE](#performing-experience)
-    * [Orchestras](#orchestras)
-    * [Other ensembles](#other-ensembles)
-    * [Premieres/Commissions](#premieres-commissions)
-    * [Compositions](#compositions)
-* [TEACHING EXPERIENCE](#teaching-experience)
+    * [Festivais](#festivais)
+* [EXPERIÊCIA PROFISSIONAL](#experiêcia-profissional)
+    * [Orquestras](#orquestras)
+    * [Outros ensembles](#outros-ensembles)
+    * [Estreias/Comissões](#estreias-comissões)
+    * [Composições](#composições)
+* [EXPERIÊCIA PEDAGÓGICA](#experiêcia-pedagógica)
 
 <!-- vim-markdown-toc -->
-## EDUCATION
-- D.M.A., Contemporary Music Performance, Bowling Green State University, in progress
-- M.M., Cello Performance, Bowling Green State University, 2019
-- B.M., Cello Performance, Highest Honors, University of Southern Mississippi, 2017
-- Additional studies, Conservatório Dramático Musical “Dr Carlos de Campos” de Tatuí-SP-Brazil, 2008-2012
+## EDUCAÇÃO
+- D.M.A., Performance em Música Contempor
+anea, Bowling Green State University, em progresso
+- M.M., Performance em Violoncelo, Bowling Green State University, 2019
+- B.M., Performance em Violoncelo, Highest Honors, University of Southern Mississippi, 2017
+- Estudos Adicionais, Conservatório Dramático Musical “Dr Carlos de Campos” de Tatuí-SP, 2008-2012
 
-### Private Studies
+### Aulas Particulares
 - Brian Snow (Bowling Green State University)
 - Alexander Russakovsky (University of Southern Mississippi)
-- André Micheletti (Private Lessons-Brazil)
-- João Guilherme Figueiredo (Baroque Cello, Conservatório de Tatuí-Brazil)
+- André Micheletti (Aulas Particulares-Brazil)
+- João Guilherme Figueiredo (Violoncelo Barroco, Conservatório de Tatuí)
 
 ### Masterclasses
 - Colin Carr (UK)
@@ -45,19 +46,19 @@ menubar: menu_about
 - Minna Rose Chung (University of Manitoba)
 - Dennis Parker (Louisiana State University)
 - Ari Streisfeld (former JACK quartet member, violin)
-- Mikhail Kopelman, chamber music (Borodin Quartet, Eastman School of Music)
+- Mikhail Kopelman, música de câmara (Borodin Quartet, Eastman School of Music)
 - American String Quartet
 - Formosa String Quartet
 
-### Summer Festivals
+### Festivais
 - Aspen Music Festival, 2021
 - Northern Lights Music Festival (Minnesota), 2015, 2016
 - Brevard Music Festival, 2014
-- Rio International Cello Encounter (Rio de Janeiro, Brazil), 2010, 2011, 2013
-- Oficina de Música de Curitiba-Brazil, 2012
+- Rio International Cello Encounter (Rio de Janeiro, Brasil), 2010, 2011, 2013
+- Oficina de Música de Curitiba-Brasil, 2012
 
-## PERFORMING EXPERIENCE
-### Orchestras
+## EXPERIÊCIA PROFISSIONAL
+### Orquestras
 - Lima Symphony Orchestra (Ohio), 2018-present
 - Perrysburg Symphony Orchestra (Ohio), 2017-present
 - Meridian Symphony Orchestra (Mississippi), 2014-2017
@@ -68,11 +69,11 @@ menubar: menu_about
 - Substitute cellist, Mobile Symphony Orchestra (Alabama), 2016
 - Substitute cellist, Gulf Coast Symphony Orchestra (Mississippi), 2016
 
-### Other ensembles
+### Outros ensembles
 - Sparta Quartet, 2018-2020 
 - VIVE! Ensemble, 2018
 
-### Premieres/Commissions
+### Estreias/Comissões
 - Connor Gibbs, Truth, for solo cello, 2020
 - Luzilei Aliel, X, for cello and live electronics, 2020*
 - Rafael Fajiolli de Oliveira, Recitativo, for solo cello, 2020*
@@ -93,20 +94,19 @@ menubar: menu_about
 - Michael Lanci, Endless Colored Ways, for fl/cl/vln/vlc/db/perc/cond, 2018
 - Adam O’Dell, I stood and stared at a lake in a rainstorm, for pierrot ensemble, 2017
 
-*commission
+*commissão
 
-### Compositions
+### Composições
 - Culture #3, for at least 8 string instruments, 2020
 - The Other, or how to peel a banana, for 10 cellos, and either video or 2 look-alike actors (both are optional), 2020
 - Ode to Noise #2, for any number of string instruments, 2019
 
-## TEACHING EXPERIENCE
-**Mission Statement** _“My mission is to provide my students all the tools they need to become competent and flexible musicians”_
+## EXPERIÊCIA PEDAGÓGICA
 
-- Private teaching, 2007-present
+- Aulas particulares, 2007-presente
 
-- Teaching Assistant at BGSU
-  - Courses: 
+- Professor Assistente (TA) na BGSU.
+  - Cursos: 
     - Applied Cello, MusP 2830 (Fall '19, Spring '20, Fall '20, Spring '21)
     - Exploring Music of World Cultures
       - Fall '19, MuCT 1250 1001/3001, instructor: Dr. Rancier
@@ -115,13 +115,13 @@ menubar: menu_about
       - Spring '21, MuCT 1010, instructor: Dr. Ebright
     - String Repertoire and Pedagogy, MusP 4480/5580 (Spring '21), instructors: Dr. Snow and Ms. Chin.
 
-- Cello Mentor, Detroit Symphony Orchestra’s Civic Youth Ensembles, 2017-2019
+- Mentor de Violoncelo, Detroit Symphony Orchestra’s Civic Youth Ensembles, 2017-2019
 
-- Teaching assistant, Southern Miss Kids Orchestra, Hattiesburg, MS, 2016-17
-- Guitar instructor, Instituto Musical Pró-Sound, Brazil, 2007-09
+- Professor Assistente Southern Miss Kids Orchestra, Hattiesburg, MS, 2016-17
+- Professor de Violão e Guitarra, Instituto Musical Pró-Sound, Brazil, 2007-09
 
-- Guest Masterclasses
-  - USP Ribeirão Preto-Brazil, 2019
-  - Conservatório Dramático e Musical “Dr Carlos de Campos” de Tatuí-Brazil, 2019
+- Masterclasses Ministradas
+  - USP Ribeirão Preto-Brasil, 2019
+  - Conservatório Dramático e Musical “Dr Carlos de Campos” de Tatuí-Brasil, 2019
   - Orquestra Sinfônica Municipal de Bauru, 2019
 

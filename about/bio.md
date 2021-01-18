@@ -59,12 +59,8 @@ mercadológica.
 Ao norte se dirigiu, evitando a aridez a oeste, o estranho vazio a
 noroeste e o álgido extremo do extremo norte --- fora rejeitado a leste
 e não aplicara aos remanentes pontos cardeais. E é lá que me encontro
-aqui, rumo ao quarto ano, segundo de estudos à música do presente, e
-entre ides e ruídes com [Flávio
-Rodrigues](https://www.ruidospodcast.com.br/p/flavio-rodrigues.html).
+aqui, rumo ao quarto ano, segundo de estudos à música do presente.
 
-Prazer,
-
-Tody
-
-Bowling Green, OH, EUA 20/08/2020
+<p style="text-align: right">Prazer,</p><br>
+<p style="text-align: right">Otávio</p><br>
+<p style="text-align: right">Bowling Green, OH, EUA 20/08/2020</p>
