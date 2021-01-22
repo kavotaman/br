@@ -18,7 +18,7 @@ email: otaviokavakama@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Violonceleiro, curte tocar umas doideras
 baseurl: "/br" # the subpath of your site, e.g. /blog
-url: "https://kavotaman.gitub.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://otaviomk.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kavotaman
 github_username:  kavotaman
 
