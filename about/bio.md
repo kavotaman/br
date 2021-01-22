@@ -3,6 +3,7 @@ title: Bio
 layout: page
 hero_image: https://kavotaman.github.io/img/Otavio MK 7.jpg
 menubar: menu_about
+my_variable: https://kavotaman.github.io/about/bio.html
 ---
 
 ![Yo](https://kavotaman.github.io/img/Otavio MK 15.jpg){: style="float:right; padding:16px; width: 70%; border-radius: 5px"}

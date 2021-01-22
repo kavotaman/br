@@ -3,6 +3,7 @@ title: Currículo
 layout: page
 hero_image: https://kavotaman.github.io/img/Otavio MK 14.jpg
 menubar: menu_about
+my_variable: https://kavotaman.github.io/about/cv.html
 ---
 
 <!-- vim-markdown-toc Redcarpet -->

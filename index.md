@@ -8,6 +8,7 @@ hero_image: https://kavotaman.github.io/img/Otavio MK 1.jpg
 hero_height: is-large
 show_sidebar: true
 hide_footer: false
+my_variable: https://kavotaman.github.io/index_en.html
 ---
 # Otávio Manzano Kavakama
 Violonceleiro, curte tocar umas doideras. Cor favorita é a amarela. Grande entusiasta da mesóclise.

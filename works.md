@@ -3,6 +3,7 @@ title: Media
 layout: page
 hero_image: https://kavotaman.github.io/img/Otavio MK 3.jpg
 menubar: menu_media
+my_variable: https://kavotaman.github.io/works.html
 ---
 
 O Outro, ou como descascar uma banana
