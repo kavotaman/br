@@ -2,9 +2,29 @@
 title: Videos
 layout: page
 hero_image: https://kavotaman.github.io/img/Otavio MK 3.jpg
-menubar_toc: true
-toc_title: Menu
 ---
+
+
+<!-- vim-markdown-toc Redcarpet -->
+
+* [Vídeos do Otávio](#vídeos-do-otávio)
+    * [Solo](#solo)
+    * [Música de Câmara](#música-de-câmara)
+        * [Cello e Piano](#cello-e-piano)
+        * [Duos](#duos)
+        * [Trios](#trios)
+        * [Quarteto de Cordas](#quarteto-de-cordas)
+        * [Quinteto](#quinteto)
+        * [Grupo de Violoncelos](#grupo-de-violoncelos)
+        * [Grupos Mistos](#grupos-mistos)
+    * [Orquestra](#orquestra)
+    * [Doideras do Távio](#doideras-do-távio)
+    * [Popular](#popular)
+    * [Macabration](#macabration)
+        * [Fantoches](#fantoches)
+
+<!-- vim-markdown-toc -->
+
 # Vídeos do Otávio
 
 ## Solo
@@ -29,7 +49,9 @@ Fajiolli de Oliveira, _Recitativo_ - 2020
 
 {% include youtube.html video="PqTO8jM8Kiw" %}
 
-## Cello e Piano
+## Música de Câmara
+
+### Cello e Piano
 
 Jameson Nathan Jones, _Tenebris_ - 2016
 
@@ -75,7 +97,7 @@ Tchaikovsky, _Variações Rococó_ - 2020
 
 {% include youtube.html video="Qf5OPgGwcMA" %}
 
-## Duos
+### Duos
 
 Rameau, (Tatuí) - 2012
 
