@@ -18,6 +18,7 @@ hero_image: https://kavotaman.github.io/img/Otavio MK 3.jpg
         * [Grupo de Violoncelos](#grupo-de-violoncelos)
         * [Grupos Mistos](#grupos-mistos)
     * [Orquestra](#orquestra)
+    * [Lives Florestinha](#lives-florestinha)
     * [Doideras do Távio](#doideras-do-távio)
     * [Popular](#popular)
     * [Macabration](#macabration)
@@ -290,6 +291,14 @@ Adam Har-Zvi, _Meshuga_, para flauta, clarinete, violoncelo e contrabaixo - 2020
 
 {% include youtube.html video="iUEO1vGFKqI" %}
 
+Couperin, Premier Concert Royaux - 2020
+
+{% include youtube.html video="UDgAyMZA9vM" %}
+
+Couperin, Quatrième Concert Royaux in E Minor - 2020
+
+{% include youtube.html video="3r5HKLk7-UU" %}
+
 ## Orquestra
 
 Grieg, _Suite Holberg_ - 2011 [Voltar pro Menu](#top)
@@ -309,6 +318,16 @@ Dvorak, _Serenata para Cordas_ - 2017 [Voltar pro Menu](#top)
 Tchaikovsky, _Serenata para Cordas_ - 2017 [Voltar pro Menu](#top)
 
 {% include youtube.html video="9QSyhGypp3M" %}
+
+## Lives Florestinha
+
+Live #1
+
+{% include youtube.html video="_wGm_NT-jF8" %}
+
+Live #2
+
+{% include youtube.html video="C55K_1zubig" %}
 
 ## Doideras do Távio
 
