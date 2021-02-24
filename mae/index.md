@@ -291,11 +291,11 @@ Adam Har-Zvi, _Meshuga_, para flauta, clarinete, violoncelo e contrabaixo - 2020
 
 {% include youtube.html video="iUEO1vGFKqI" %}
 
-Couperin, Premier Concert Royaux - 2020
+Couperin, Premier Concert Royaux - 2020 [Voltar pro Menu](#top)
 
 {% include youtube.html video="UDgAyMZA9vM" %}
 
-Couperin, Quatrième Concert Royaux in E Minor - 2020
+Couperin, Quatrième Concert Royaux in E Minor - 2020 [Voltar pro Menu](#top)
 
 {% include youtube.html video="3r5HKLk7-UU" %}
 
@@ -321,11 +321,11 @@ Tchaikovsky, _Serenata para Cordas_ - 2017 [Voltar pro Menu](#top)
 
 ## Lives Florestinha
 
-Live #1
+Live #1 [Voltar pro Menu](#top)
 
 {% include youtube.html video="_wGm_NT-jF8" %}
 
-Live #2
+Live #2 [Voltar pro Menu](#top)
 
 {% include youtube.html video="C55K_1zubig" %}
 
