@@ -62,6 +62,6 @@ noroeste e o álgido extremo do extremo norte --- fora rejeitado a leste
 e não aplicara aos remanentes pontos cardeais. E é lá que me encontro
 aqui, rumo ao quarto ano, segundo de estudos à música do presente.
 
-<p style="text-align: right">Prazer,</p><br>
-<p style="text-align: right">Otávio</p><br>
+<p style="text-align: right">Prazer,</p>
+<p style="text-align: right">Otávio</p>
 <p style="text-align: right">Bowling Green, OH, EUA 20/08/2020</p>

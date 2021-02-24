@@ -26,11 +26,15 @@ my_variable: https://kavotaman.github.io/about/cv.html
 - B.M., Performance em Violoncelo, Highest Honors, University of Southern Mississippi, 2017
 - Estudos Adicionais, Conservatório Dramático Musical “Dr Carlos de Campos” de Tatuí-SP, 2008-2012
 
+[Voltar pro Menu](#top)
+
 ### Aulas Particulares
 - Brian Snow (Bowling Green State University)
 - Alexander Russakovsky (University of Southern Mississippi)
 - André Micheletti (Aulas Particulares-Brazil)
 - João Guilherme Figueiredo (Violoncelo Barroco, Conservatório de Tatuí)
+
+[Voltar pro Menu](#top)
 
 ### Masterclasses
 - Colin Carr (UK)
@@ -50,12 +54,16 @@ my_variable: https://kavotaman.github.io/about/cv.html
 - American String Quartet
 - Formosa String Quartet
 
+[Voltar pro Menu](#top)
+
 ### Festivais
 - Aspen Music Festival, 2021
 - Northern Lights Music Festival (Minnesota), 2015, 2016
 - Brevard Music Festival, 2014
 - Rio International Cello Encounter (Rio de Janeiro, Brasil), 2010, 2011, 2013
 - Oficina de Música de Curitiba-Brasil, 2012
+
+[Voltar pro Menu](#top)
 
 ## EXPERIÊCIA PROFISSIONAL
 ### Orquestras
@@ -69,9 +77,13 @@ my_variable: https://kavotaman.github.io/about/cv.html
 - Substitute cellist, Mobile Symphony Orchestra (Alabama), 2016
 - Substitute cellist, Gulf Coast Symphony Orchestra (Mississippi), 2016
 
+[Voltar pro Menu](#top)
+
 ### Outros ensembles
 - Sparta Quartet, 2018-2020 
 - VIVE! Ensemble, 2018
+
+[Voltar pro Menu](#top)
 
 ### Estreias/Comissões
 
@@ -97,10 +109,14 @@ my_variable: https://kavotaman.github.io/about/cv.html
 
 *comissão
 
+[Voltar pro Menu](#top)
+
 ### Composições
 - Culture #3, para pelo menos 8 instrumentos de cordas, 2020
 - O Outro, ou como descascar uma banana, para 10 cellos, e vídeo (opcional) ou 2 atores (opcional), 2020
 - Otavio Kavakama, _Ode ao Barulho #2_, para qualquer combinação de instrumentos de cordas friccionadas, 2019
+
+[Voltar pro Menu](#top)
 
 ## EXPERIÊCIA PEDAGÓGICA
 
@@ -127,3 +143,4 @@ my_variable: https://kavotaman.github.io/about/cv.html
   - Conservatório Dramático e Musical “Dr Carlos de Campos” de Tatuí-Brasil, 2019
   - Orquestra Sinfônica Municipal de Bauru, 2019
 
+[Voltar pro Menu](#top)
