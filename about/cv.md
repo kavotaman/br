@@ -21,8 +21,7 @@ my_variable: https://kavotaman.github.io/about/cv.html
 
 <!-- vim-markdown-toc -->
 ## EDUCAÇÃO
-- D.M.A., Performance em Música Contempor
-anea, Bowling Green State University, em progresso
+- D.M.A., Performance em Música Contemporânea, Bowling Green State University, em progresso
 - M.M., Performance em Violoncelo, Bowling Green State University, 2019
 - B.M., Performance em Violoncelo, Highest Honors, University of Southern Mississippi, 2017
 - Estudos Adicionais, Conservatório Dramático Musical “Dr Carlos de Campos” de Tatuí-SP, 2008-2012
@@ -75,32 +74,33 @@ anea, Bowling Green State University, em progresso
 - VIVE! Ensemble, 2018
 
 ### Estreias/Comissões
-- Connor Gibbs, Truth, for solo cello, 2020
-- Luzilei Aliel, X, for cello and live electronics, 2020*
-- Rafael Fajiolli de Oliveira, Recitativo, for solo cello, 2020*
-- Adam Har-zvi, Sonata for Cello and Piano, 2020*
-- Rafael Fajiolli de Oliveira, Rondó, for solo cello, 2019*
-- Roberto Mochetti, Evening Gatha, for two cellos, 2019*
-- Anthony Donofrio, XIII, for chamber ensemble, 2019
-- Fúlvio Ferrari, Fantasia, for cello and piano, 2019*
-- Alexandre Guilherme, For Otamaka, for solo cello, 2019*
-- Chace Williams, Halcyon, for cl/vln/vlc/pno, 2019*
-- Sam Longo-Capobianco, Automaton, for cl/vln/vlc/pno, 2019*
-- Jon-Luke Martin, Groove, for cl/vln/vlc/pno, 2019*
-- Emily McPherson, Ebb, for sop/cl/vln/vlc/pno, 2019*
-- Otavio Kavakama, Ode to Noise #2, any combination of bowed string instruments, 2019
-- Julia Seeholzer, That Same Blood, for fl/cl/vln/vlc/db/perc/cond, 2018
-- Hong-Da Chin, Sfumato, for fl/cl/vln/vlc/db/perc/cond, 2018
-- Paul Poston, Picasso Dreams of Drawing Squares, for fl/cl/vln/vlc/db/perc/cond, 2018
-- Michael Lanci, Endless Colored Ways, for fl/cl/vln/vlc/db/perc/cond, 2018
-- Adam O’Dell, I stood and stared at a lake in a rainstorm, for pierrot ensemble, 2017
 
-*commissão
+- Connor Gibbs, _Truth_, para cello solo, 2020
+- Luzilei Aliel, _Tesla_, para cello e live electronics, 2020*
+- Rafael Fajiolli de Oliveira, _Recitativo_, para cello solo, 2020*
+- Adam Har-zvi, Sonata para Cello and Piano, 2020*
+- Rafael Fajiolli de Oliveira, _Rondó_, para cello solo, 2019*
+- Roberto Mochetti, _Evening Gatha_, para dois cellos, 2019*
+- Anthony Donofrio, _XIII_, para conjunto de câmara, 2019
+- Fúlvio Ferrari, _Fantasia_, para cello e piano, 2019*
+- Alexandre Guilherme, _For Otamaka_, para cello solo, 2019*
+- Chace Williams, _Halcyon_, para cl/vln/vlc/pno, 2019*
+- Sam Longo-Capobianco, _Automaton_, para cl/vln/vlc/pno, 2019*
+- Jon-Luke Martin, _Groove_, para cl/vln/vlc/pno, 2019*
+- Emily McPherson, _Ebb_, para sop/cl/vln/vlc/pno, 2019*
+- Otavio Kavakama, _Ode ao Barulho #2_, para qualquer combinação de instrumentos de cordas friccionadas, 2019
+- Julia Seeholzer, _That Same Blood_, para fl/cl/vln/vlc/db/perc/cond, 2018
+- Hong-Da Chin, _Sfumato_, para fl/cl/vln/vlc/db/perc/cond, 2018
+- Paul Poston, _Picasso Dreams of Drawing Squares_, para fl/cl/vln/vlc/db/perc/cond, 2018
+- Michael Lanci, _Endless Colored Ways_, para fl/cl/vln/vlc/db/perc/cond, 2018
+- Adam O’Dell, _I stood and stared at a lake in a rainstorm_, para ensemble pierrot, 2017
+
+*comissão
 
 ### Composições
-- Culture #3, for at least 8 string instruments, 2020
-- The Other, or how to peel a banana, for 10 cellos, and either video or 2 look-alike actors (both are optional), 2020
-- Ode to Noise #2, for any number of string instruments, 2019
+- Culture #3, para pelo menos 8 instrumentos de cordas, 2020
+- O Outro, ou como descascar uma banana, para 10 cellos, e vídeo (opcional) ou 2 atores (opcional), 2020
+- Otavio Kavakama, _Ode ao Barulho #2_, para qualquer combinação de instrumentos de cordas friccionadas, 2019
 
 ## EXPERIÊCIA PEDAGÓGICA
 
@@ -118,7 +118,8 @@ anea, Bowling Green State University, em progresso
 
 - Mentor de Violoncelo, Detroit Symphony Orchestra’s Civic Youth Ensembles, 2017-2019
 
-- Professor Assistente Southern Miss Kids Orchestra, Hattiesburg, MS, 2016-17
+- Professor Assistente, Southern Miss Kids Orchestra, Hattiesburg, MS, 2016-17
+- Professor Assistente, String Methods, University of Southern Mississippi, instrutora: Dr. Lee, 2016-17
 - Professor de Violão e Guitarra, Instituto Musical Pró-Sound, Brazil, 2007-09
 
 - Masterclasses Ministradas
