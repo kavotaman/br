@@ -1,3 +1,40 @@
+<style>
+ .navbar.is-primary .navbar-start>a.navbar-item:focus,
+ .navbar.is-primary .navbar-start>a.navbar-item:hover,
+ .navbar.is-primary .navbar-start>a.navbar-item.is-active,
+ .navbar.is-primary .navbar-start .navbar-link:focus,
+ .navbar.is-primary .navbar-start .navbar-link:hover,
+ .navbar.is-primary .navbar-start .navbar-link.is-active,
+ .navbar.is-primary .navbar-end>a.navbar-item:focus,
+ .navbar.is-primary .navbar-end>a.navbar-item:hover,
+ .navbar.is-primary .navbar-end>a.navbar-item.is-active,
+ .navbar.is-primary .navbar-end .navbar-link:focus,
+ .navbar.is-primary .navbar-end .navbar-link:hover,
+ .navbar.is-primary .navbar-end .navbar-link.is-active {
+  background-color:#9E6E40;
+  color:#181a1b;
+ }
+ .navbar.is-primary {
+background-color: #181a1b;
+color: #c6c1b9;
+}
+
+.navbar.is-primary a:hover {
+background-color: #9E6E40;
+}
+.navbar.is-primary a:active {
+background-color: #7a9230;
+}
+
+@media screen and (min-width: 1024px) {
+ .navbar.is-primary .navbar-start>.navbar-item,
+ .navbar.is-primary .navbar-start .navbar-link,
+ .navbar.is-primary .navbar-end>.navbar-item,
+ .navbar.is-primary .navbar-end .navbar-link {
+  color:#c6c1b9;
+ }
+}
+</style>
 <nav class="navbar is-primary {% if site.fixed_navbar %} is-fixed-{{ site.fixed_navbar }} {% endif %}">
     <div class="container">
         <div class="navbar-brand">

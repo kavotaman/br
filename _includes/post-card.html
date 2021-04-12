@@ -1,4 +1,4 @@
-<div class="card" style="background-color: #b5bfb4;">
+<div class="card" style="background-color: #1E2122;">
     {% if post.image %}
     <div class="card-image">
         <img src="{{ post.image }}" alt="{{ post.title }}">
@@ -24,6 +24,6 @@
         </div>
     </div>
     <footer class="card-footer" style="background-color: #7a9230; border-top: 1px; border-top-color: #b3b3b3;">
-        <p class="card-footer-item">Publicado: {{ post.date | date: "%-d %b, %Y" }}</p>
+        <p class="card-footer-item">Published: {{ post.date | date: "%b %-d, %Y" }}</p>
     </footer>
 </div>
