@@ -99,8 +99,6 @@ table td { border: 1px solid #e8e8e8; }
 
 .site-nav .page-link-flag { color: #c6c1b9; line-height: 1.5; }
 
-.site-nav .page-link-flag:not(:last-child) { margin-right: 20px; }
-
 .site-nav a.page-link-flag:link { text-decoration: none; }
 
 .site-nav a.page-link-flag:visited { text-decoration: none; }
